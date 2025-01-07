@@ -57,9 +57,7 @@ This project demonstrates the use of data analysis techniques, visualization too
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Email:** meghbhatt007@gmail.com
+- **GitHub:** [Codecrackerexe](https://github.com/Codecrackerexe)
 
 ---
-
-**Note:** Replace placeholders such as `your-username` and `your-email@example.com` with your actual information.
